@@ -1,4 +1,6 @@
-   // Import specific functions from date-fns
+// Updated for submission
+
+// Import specific functions from date-fns
 const { format, addDays } = require('date-fns');
 
 // Get the current date
